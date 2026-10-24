@@ -20,9 +20,6 @@ Pillow
 opencv-python
 tensorboard
 ```
-
-## Dataset
-
 ## Dataset
 
 Training data:
